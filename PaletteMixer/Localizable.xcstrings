@@ -5,6 +5,7 @@
 
     },
     "Choose color" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ru" : {
           "stringUnit" : {
@@ -15,6 +16,7 @@
       }
     },
     "Close" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -34,6 +36,7 @@
       "shouldTranslate" : false
     },
     "Result" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ru" : {
           "stringUnit" : {

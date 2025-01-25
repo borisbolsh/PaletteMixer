@@ -21,7 +21,7 @@ struct MixerView: View {
 					isShowingColorPicker = true
 				}
 
-				Text(я"Result"))
+				Text(languageManager.loc(forKey: "Result"))
 					.font(.headline)
 				RoundedRectangle(cornerRadius: Grid.radius12)
 					.fill(viewModel.mixedColor)
